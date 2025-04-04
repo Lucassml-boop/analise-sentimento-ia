@@ -19,7 +19,7 @@ Abaixo estão algumas capturas de tela que demonstram como o Azure interpretou d
 - **Frase analisada:** "The elevator was out of service for the entire weekend."
 - **Resultado:** Sentimento negativo (100%)
 
-![Análise Negativa](./analise_negativa_1.png)
+![Análise Negativa](./prints/analise_negativa_1.png)
 
 ---
 
@@ -27,7 +27,7 @@ Abaixo estão algumas capturas de tela que demonstram como o Azure interpretou d
 - **Frase analisada:** "They upgraded our room for free!"
 - **Resultado:** Sentimento positivo (98%)
 
-![Análise Positiva](./positive1.png)
+![Análise Positiva](./prints/positive1.png)
 
 ---
 
@@ -35,7 +35,7 @@ Abaixo estão algumas capturas de tela que demonstram como o Azure interpretou d
 - **Frase analisada:** "Room size was average, similar to what you'd expect in a big city."
 - **Resultado:** Sentimento neutro (100%)
 
-![Análise Neutra](./neutral2.png)
+![Análise Neutra](./prints/neutral2.png)
 
 ---
 
@@ -43,7 +43,7 @@ Abaixo estão algumas capturas de tela que demonstram como o Azure interpretou d
 - **Frase analisada:** "Room service was fast and the food tasty, but they forgot part of our order and never corrected it."
 - **Resultado:** Sentimento misto, pois algumas partes da frase são positivas ("fast", "tasty"), enquanto outras são negativas ("forgot part of our order").
 
-![Análise Mista](./misto1.png)
+![Análise Mista](./prints/misto1.png)
 
 ---
 
