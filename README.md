@@ -19,7 +19,7 @@ Abaixo estão algumas capturas de tela que demonstram como o Azure interpretou d
 - **Frase analisada:** "The elevator was out of service for the entire weekend."
 - **Resultado:** Sentimento negativo (100%)
 
-![Análise Negativa](./prints/analise_negativa_1.png)
+![Análise Negativa](./prints/analise%20negativa%201.png)
 
 ---
 
@@ -35,7 +35,7 @@ Abaixo estão algumas capturas de tela que demonstram como o Azure interpretou d
 - **Frase analisada:** "Room size was average, similar to what you'd expect in a big city."
 - **Resultado:** Sentimento neutro (100%)
 
-![Análise Neutra](./prints/neutral2.png)
+![Análise Neutra](./prints/neutral%202.png)
 
 ---
 
